@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+} 
+#nav-section button{
+    background-color: #cc3300;
+    color: white;
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 6px;
+}
